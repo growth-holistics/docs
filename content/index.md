@@ -1,6 +1,6 @@
 ---
 title: '{% data variables.product.product_name %}{% ifversion fpt or ghec%}.com{% endif %} Help Documentation'
-featuredLinks:
+featuredLinks:jjj
   gettingStarted:
     - /get-started/getting-started-with-git/set-up-git
     - /authentication/connecting-to-github-with-ssh
